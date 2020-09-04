@@ -1,0 +1,2277 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/manifest",
+  "@type": "sc:Manifest",
+  "label": [
+    {
+      "@value": "Lantmäteristyrelsen, Geometriska jordeböcker, SE/RA/420571/01/F/F1a/114 (1698)",
+      "@language": "sv"
+    },
+    {
+      "@value": "Lantmäteristyrelsen, Geometriska jordeböcker, SE/RA/420571/01/F/F1a/114 (1698)",
+      "@language": "en"
+    }
+  ],
+  "metadata": [
+    {
+      "label": [
+        {
+          "@value": "Arkiv",
+          "@language": "sv"
+        },
+        {
+          "@value": "Archive",
+          "@language": "en-GB"
+        }
+      ],
+      "value": [
+        "Lantmäteristyrelsen"
+      ]
+    },
+    {
+      "label": [
+        {
+          "@value": "Serie",
+          "@language": "sv"
+        },
+        {
+          "@value": "Serie",
+          "@language": "en-GB"
+        }
+      ],
+      "value": [
+        "Geometriska jordeböcker"
+      ]
+    },
+    {
+      "label": [
+        {
+          "@value": "Referenskod",
+          "@language": "sv"
+        },
+        {
+          "@value": "Reference code",
+          "@language": "en-GB"
+        }
+      ],
+      "value": [
+        "SE/RA/420571/01/F/F1a/114"
+      ]
+    },
+    {
+      "label": [
+        {
+          "@value": "Datering",
+          "@language": "sv"
+        },
+        {
+          "@value": "Date",
+          "@language": "en-GB"
+        }
+      ],
+      "value": [
+        "1698"
+      ]
+    },
+    {
+      "label": [
+        {
+          "@value": "Anmärkning",
+          "@language": "sv"
+        },
+        {
+          "@value": "Remark",
+          "@language": "en-GB"
+        }
+      ],
+      "value": [
+        "I2 Blekinge län"
+      ]
+    },
+    {
+      "label": [
+        {
+          "@value": "Källhänvisning",
+          "@language": "sv"
+        },
+        {
+          "@value": "Source reference",
+          "@language": "en-GB"
+        }
+      ],
+      "value": [
+        "Lantmäteristyrelsen, Geometriska jordeböcker, SE/RA/420571/01/F/F1a/114 (1698)"
+      ]
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/sequence/normal",
+      "@type": "sc:Sequence",
+      "viewingHint": "paged",
+      "viewingDirection": "left-to-right",
+      "canvases": [
+        {
+          "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p1",
+          "@type": "sc:Canvas",
+          "label": [
+            {
+              "@value": "Bild 1",
+              "@language": "sv"
+            },
+            {
+              "@value": "Image 1",
+              "@language": "en-GB"
+            }
+          ],
+          "metadata": [
+            {
+              "label": [
+                {
+                  "@value": "Bildid",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Image ID",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                "90003025_00001"
+              ]
+            },
+            {
+              "label": [
+                {
+                  "@value": "Länk",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Link",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                "https://sok.riksarkivet.se/bildvisning/90003025_00001"
+              ]
+            },
+            {
+              "label": [
+                {
+                  "@value": "Källhänvisning",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Source reference",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                {
+                  "@value": "Lantmäteristyrelsen, Geometriska jordeböcker, SE/RA/420571/01/F/F1a/114 (1698), bildid: 90003025_00001",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Lantmäteristyrelsen, Geometriska jordeböcker, SE/RA/420571/01/F/F1a/114 (1698), Image ID: 90003025_00001",
+                  "@language": "en-GB"
+                }
+              ]
+            }
+          ],
+          "height": 2090,
+          "width": 2974,
+          "images": [
+            {
+              "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/annotation/p1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lbiiif.riksarkivet.se/arkis!90003025_00001/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2090,
+                "width": 2974,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lbiiif.riksarkivet.se/arkis!90003025_00001",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p1"
+            }
+          ]
+        },
+        {
+          "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p2",
+          "@type": "sc:Canvas",
+          "label": [
+            {
+              "@value": "Bild 2",
+              "@language": "sv"
+            },
+            {
+              "@value": "Image 2",
+              "@language": "en-GB"
+            }
+          ],
+          "metadata": [
+            {
+              "label": [
+                {
+                  "@value": "Bildid",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Image ID",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                "90003025_00002"
+              ]
+            },
+            {
+              "label": [
+                {
+                  "@value": "Länk",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Link",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                "https://sok.riksarkivet.se/bildvisning/90003025_00002"
+              ]
+            },
+            {
+              "label": [
+                {
+                  "@value": "Källhänvisning",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Source reference",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                {
+                  "@value": "Lantmäteristyrelsen, Geometriska jordeböcker, SE/RA/420571/01/F/F1a/114 (1698), bildid: 90003025_00002",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Lantmäteristyrelsen, Geometriska jordeböcker, SE/RA/420571/01/F/F1a/114 (1698), Image ID: 90003025_00002",
+                  "@language": "en-GB"
+                }
+              ]
+            }
+          ],
+          "height": 5301,
+          "width": 368,
+          "images": [
+            {
+              "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/annotation/p2",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lbiiif.riksarkivet.se/arkis!90003025_00002/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 5301,
+                "width": 368,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lbiiif.riksarkivet.se/arkis!90003025_00002",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p2"
+            }
+          ]
+        },
+        {
+          "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p3",
+          "@type": "sc:Canvas",
+          "label": [
+            {
+              "@value": "Bild 3",
+              "@language": "sv"
+            },
+            {
+              "@value": "Image 3",
+              "@language": "en-GB"
+            }
+          ],
+          "metadata": [
+            {
+              "label": [
+                {
+                  "@value": "Bildid",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Image ID",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                "90003025_00003"
+              ]
+            },
+            {
+              "label": [
+                {
+                  "@value": "Länk",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Link",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                "https://sok.riksarkivet.se/bildvisning/90003025_00003"
+              ]
+            },
+            {
+              "label": [
+                {
+                  "@value": "Källhänvisning",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Source reference",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                {
+                  "@value": "Lantmäteristyrelsen, Geometriska jordeböcker, SE/RA/420571/01/F/F1a/114 (1698), bildid: 90003025_00003",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Lantmäteristyrelsen, Geometriska jordeböcker, SE/RA/420571/01/F/F1a/114 (1698), Image ID: 90003025_00003",
+                  "@language": "en-GB"
+                }
+              ]
+            }
+          ],
+          "height": 5420,
+          "width": 3816,
+          "images": [
+            {
+              "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/annotation/p3",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lbiiif.riksarkivet.se/arkis!90003025_00003/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 5420,
+                "width": 3816,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lbiiif.riksarkivet.se/arkis!90003025_00003",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p3"
+            }
+          ]
+        },
+        {
+          "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p4",
+          "@type": "sc:Canvas",
+          "label": [
+            {
+              "@value": "Bild 4",
+              "@language": "sv"
+            },
+            {
+              "@value": "Image 4",
+              "@language": "en-GB"
+            }
+          ],
+          "metadata": [
+            {
+              "label": [
+                {
+                  "@value": "Bildid",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Image ID",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                "90003025_00004"
+              ]
+            },
+            {
+              "label": [
+                {
+                  "@value": "Länk",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Link",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                "https://sok.riksarkivet.se/bildvisning/90003025_00004"
+              ]
+            },
+            {
+              "label": [
+                {
+                  "@value": "Källhänvisning",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Source reference",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                {
+                  "@value": "Lantmäteristyrelsen, Geometriska jordeböcker, SE/RA/420571/01/F/F1a/114 (1698), bildid: 90003025_00004",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Lantmäteristyrelsen, Geometriska jordeböcker, SE/RA/420571/01/F/F1a/114 (1698), Image ID: 90003025_00004",
+                  "@language": "en-GB"
+                }
+              ]
+            }
+          ],
+          "height": 5381,
+          "width": 3592,
+          "images": [
+            {
+              "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/annotation/p4",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lbiiif.riksarkivet.se/arkis!90003025_00004/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 5381,
+                "width": 3592,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lbiiif.riksarkivet.se/arkis!90003025_00004",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p4"
+            }
+          ]
+        },
+        {
+          "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p5",
+          "@type": "sc:Canvas",
+          "label": [
+            {
+              "@value": "Bild 5",
+              "@language": "sv"
+            },
+            {
+              "@value": "Image 5",
+              "@language": "en-GB"
+            }
+          ],
+          "metadata": [
+            {
+              "label": [
+                {
+                  "@value": "Bildid",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Image ID",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                "90003025_00005"
+              ]
+            },
+            {
+              "label": [
+                {
+                  "@value": "Länk",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Link",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                "https://sok.riksarkivet.se/bildvisning/90003025_00005"
+              ]
+            },
+            {
+              "label": [
+                {
+                  "@value": "Källhänvisning",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Source reference",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                {
+                  "@value": "Lantmäteristyrelsen, Geometriska jordeböcker, SE/RA/420571/01/F/F1a/114 (1698), bildid: 90003025_00005",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Lantmäteristyrelsen, Geometriska jordeböcker, SE/RA/420571/01/F/F1a/114 (1698), Image ID: 90003025_00005",
+                  "@language": "en-GB"
+                }
+              ]
+            }
+          ],
+          "height": 5252,
+          "width": 3384,
+          "images": [
+            {
+              "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/annotation/p5",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lbiiif.riksarkivet.se/arkis!90003025_00005/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 5252,
+                "width": 3384,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lbiiif.riksarkivet.se/arkis!90003025_00005",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p5"
+            }
+          ]
+        },
+        {
+          "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p6",
+          "@type": "sc:Canvas",
+          "label": [
+            {
+              "@value": "Bild 6",
+              "@language": "sv"
+            },
+            {
+              "@value": "Image 6",
+              "@language": "en-GB"
+            }
+          ],
+          "metadata": [
+            {
+              "label": [
+                {
+                  "@value": "Bildid",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Image ID",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                "90003025_00006"
+              ]
+            },
+            {
+              "label": [
+                {
+                  "@value": "Länk",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Link",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                "https://sok.riksarkivet.se/bildvisning/90003025_00006"
+              ]
+            },
+            {
+              "label": [
+                {
+                  "@value": "Källhänvisning",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Source reference",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                {
+                  "@value": "Lantmäteristyrelsen, Geometriska jordeböcker, SE/RA/420571/01/F/F1a/114 (1698), bildid: 90003025_00006",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Lantmäteristyrelsen, Geometriska jordeböcker, SE/RA/420571/01/F/F1a/114 (1698), Image ID: 90003025_00006",
+                  "@language": "en-GB"
+                }
+              ]
+            }
+          ],
+          "height": 5266,
+          "width": 3448,
+          "images": [
+            {
+              "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/annotation/p6",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lbiiif.riksarkivet.se/arkis!90003025_00006/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 5266,
+                "width": 3448,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lbiiif.riksarkivet.se/arkis!90003025_00006",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p6"
+            }
+          ]
+        },
+        {
+          "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p7",
+          "@type": "sc:Canvas",
+          "label": [
+            {
+              "@value": "Bild 7",
+              "@language": "sv"
+            },
+            {
+              "@value": "Image 7",
+              "@language": "en-GB"
+            }
+          ],
+          "metadata": [
+            {
+              "label": [
+                {
+                  "@value": "Bildid",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Image ID",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                "90003025_00007"
+              ]
+            },
+            {
+              "label": [
+                {
+                  "@value": "Länk",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Link",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                "https://sok.riksarkivet.se/bildvisning/90003025_00007"
+              ]
+            },
+            {
+              "label": [
+                {
+                  "@value": "Källhänvisning",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Source reference",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                {
+                  "@value": "Lantmäteristyrelsen, Geometriska jordeböcker, SE/RA/420571/01/F/F1a/114 (1698), bildid: 90003025_00007",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Lantmäteristyrelsen, Geometriska jordeböcker, SE/RA/420571/01/F/F1a/114 (1698), Image ID: 90003025_00007",
+                  "@language": "en-GB"
+                }
+              ]
+            }
+          ],
+          "height": 5268,
+          "width": 3336,
+          "images": [
+            {
+              "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/annotation/p7",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lbiiif.riksarkivet.se/arkis!90003025_00007/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 5268,
+                "width": 3336,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lbiiif.riksarkivet.se/arkis!90003025_00007",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p7"
+            }
+          ]
+        },
+        {
+          "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p8",
+          "@type": "sc:Canvas",
+          "label": [
+            {
+              "@value": "Bild 8",
+              "@language": "sv"
+            },
+            {
+              "@value": "Image 8",
+              "@language": "en-GB"
+            }
+          ],
+          "metadata": [
+            {
+              "label": [
+                {
+                  "@value": "Bildid",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Image ID",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                "90003025_00008"
+              ]
+            },
+            {
+              "label": [
+                {
+                  "@value": "Länk",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Link",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                "https://sok.riksarkivet.se/bildvisning/90003025_00008"
+              ]
+            },
+            {
+              "label": [
+                {
+                  "@value": "Källhänvisning",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Source reference",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                {
+                  "@value": "Lantmäteristyrelsen, Geometriska jordeböcker, SE/RA/420571/01/F/F1a/114 (1698), bildid: 90003025_00008",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Lantmäteristyrelsen, Geometriska jordeböcker, SE/RA/420571/01/F/F1a/114 (1698), Image ID: 90003025_00008",
+                  "@language": "en-GB"
+                }
+              ]
+            }
+          ],
+          "height": 12699,
+          "width": 6704,
+          "images": [
+            {
+              "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/annotation/p8",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lbiiif.riksarkivet.se/arkis!90003025_00008/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 12699,
+                "width": 6704,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lbiiif.riksarkivet.se/arkis!90003025_00008",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p8"
+            }
+          ]
+        },
+        {
+          "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p9",
+          "@type": "sc:Canvas",
+          "label": [
+            {
+              "@value": "Bild 9",
+              "@language": "sv"
+            },
+            {
+              "@value": "Image 9",
+              "@language": "en-GB"
+            }
+          ],
+          "metadata": [
+            {
+              "label": [
+                {
+                  "@value": "Bildid",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Image ID",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                "90003025_00009"
+              ]
+            },
+            {
+              "label": [
+                {
+                  "@value": "Länk",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Link",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                "https://sok.riksarkivet.se/bildvisning/90003025_00009"
+              ]
+            },
+            {
+              "label": [
+                {
+                  "@value": "Källhänvisning",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Source reference",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                {
+                  "@value": "Lantmäteristyrelsen, Geometriska jordeböcker, SE/RA/420571/01/F/F1a/114 (1698), bildid: 90003025_00009",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Lantmäteristyrelsen, Geometriska jordeböcker, SE/RA/420571/01/F/F1a/114 (1698), Image ID: 90003025_00009",
+                  "@language": "en-GB"
+                }
+              ]
+            }
+          ],
+          "height": 5253,
+          "width": 3416,
+          "images": [
+            {
+              "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/annotation/p9",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lbiiif.riksarkivet.se/arkis!90003025_00009/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 5253,
+                "width": 3416,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lbiiif.riksarkivet.se/arkis!90003025_00009",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p9"
+            }
+          ]
+        },
+        {
+          "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p10",
+          "@type": "sc:Canvas",
+          "label": [
+            {
+              "@value": "Bild 10",
+              "@language": "sv"
+            },
+            {
+              "@value": "Image 10",
+              "@language": "en-GB"
+            }
+          ],
+          "metadata": [
+            {
+              "label": [
+                {
+                  "@value": "Bildid",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Image ID",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                "90003025_00010"
+              ]
+            },
+            {
+              "label": [
+                {
+                  "@value": "Länk",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Link",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                "https://sok.riksarkivet.se/bildvisning/90003025_00010"
+              ]
+            },
+            {
+              "label": [
+                {
+                  "@value": "Källhänvisning",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Source reference",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                {
+                  "@value": "Lantmäteristyrelsen, Geometriska jordeböcker, SE/RA/420571/01/F/F1a/114 (1698), bildid: 90003025_00010",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Lantmäteristyrelsen, Geometriska jordeböcker, SE/RA/420571/01/F/F1a/114 (1698), Image ID: 90003025_00010",
+                  "@language": "en-GB"
+                }
+              ]
+            }
+          ],
+          "height": 5276,
+          "width": 6800,
+          "images": [
+            {
+              "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/annotation/p10",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lbiiif.riksarkivet.se/arkis!90003025_00010/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 5276,
+                "width": 6800,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lbiiif.riksarkivet.se/arkis!90003025_00010",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p10"
+            }
+          ]
+        },
+        {
+          "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p11",
+          "@type": "sc:Canvas",
+          "label": [
+            {
+              "@value": "Bild 11",
+              "@language": "sv"
+            },
+            {
+              "@value": "Image 11",
+              "@language": "en-GB"
+            }
+          ],
+          "metadata": [
+            {
+              "label": [
+                {
+                  "@value": "Bildid",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Image ID",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                "90003025_00011"
+              ]
+            },
+            {
+              "label": [
+                {
+                  "@value": "Länk",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Link",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                "https://sok.riksarkivet.se/bildvisning/90003025_00011"
+              ]
+            },
+            {
+              "label": [
+                {
+                  "@value": "Källhänvisning",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Source reference",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                {
+                  "@value": "Lantmäteristyrelsen, Geometriska jordeböcker, SE/RA/420571/01/F/F1a/114 (1698), bildid: 90003025_00011",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Lantmäteristyrelsen, Geometriska jordeböcker, SE/RA/420571/01/F/F1a/114 (1698), Image ID: 90003025_00011",
+                  "@language": "en-GB"
+                }
+              ]
+            }
+          ],
+          "height": 5347,
+          "width": 6784,
+          "images": [
+            {
+              "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/annotation/p11",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lbiiif.riksarkivet.se/arkis!90003025_00011/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 5347,
+                "width": 6784,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lbiiif.riksarkivet.se/arkis!90003025_00011",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p11"
+            }
+          ]
+        },
+        {
+          "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p12",
+          "@type": "sc:Canvas",
+          "label": [
+            {
+              "@value": "Bild 12",
+              "@language": "sv"
+            },
+            {
+              "@value": "Image 12",
+              "@language": "en-GB"
+            }
+          ],
+          "metadata": [
+            {
+              "label": [
+                {
+                  "@value": "Bildid",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Image ID",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                "90003025_00012"
+              ]
+            },
+            {
+              "label": [
+                {
+                  "@value": "Länk",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Link",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                "https://sok.riksarkivet.se/bildvisning/90003025_00012"
+              ]
+            },
+            {
+              "label": [
+                {
+                  "@value": "Källhänvisning",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Source reference",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                {
+                  "@value": "Lantmäteristyrelsen, Geometriska jordeböcker, SE/RA/420571/01/F/F1a/114 (1698), bildid: 90003025_00012",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Lantmäteristyrelsen, Geometriska jordeböcker, SE/RA/420571/01/F/F1a/114 (1698), Image ID: 90003025_00012",
+                  "@language": "en-GB"
+                }
+              ]
+            }
+          ],
+          "height": 5294,
+          "width": 3400,
+          "images": [
+            {
+              "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/annotation/p12",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lbiiif.riksarkivet.se/arkis!90003025_00012/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 5294,
+                "width": 3400,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lbiiif.riksarkivet.se/arkis!90003025_00012",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p12"
+            }
+          ]
+        },
+        {
+          "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p13",
+          "@type": "sc:Canvas",
+          "label": [
+            {
+              "@value": "Bild 13",
+              "@language": "sv"
+            },
+            {
+              "@value": "Image 13",
+              "@language": "en-GB"
+            }
+          ],
+          "metadata": [
+            {
+              "label": [
+                {
+                  "@value": "Bildid",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Image ID",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                "90003025_00013"
+              ]
+            },
+            {
+              "label": [
+                {
+                  "@value": "Länk",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Link",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                "https://sok.riksarkivet.se/bildvisning/90003025_00013"
+              ]
+            },
+            {
+              "label": [
+                {
+                  "@value": "Källhänvisning",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Source reference",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                {
+                  "@value": "Lantmäteristyrelsen, Geometriska jordeböcker, SE/RA/420571/01/F/F1a/114 (1698), bildid: 90003025_00013",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Lantmäteristyrelsen, Geometriska jordeböcker, SE/RA/420571/01/F/F1a/114 (1698), Image ID: 90003025_00013",
+                  "@language": "en-GB"
+                }
+              ]
+            }
+          ],
+          "height": 5233,
+          "width": 6752,
+          "images": [
+            {
+              "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/annotation/p13",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lbiiif.riksarkivet.se/arkis!90003025_00013/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 5233,
+                "width": 6752,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lbiiif.riksarkivet.se/arkis!90003025_00013",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p13"
+            }
+          ]
+        },
+        {
+          "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p14",
+          "@type": "sc:Canvas",
+          "label": [
+            {
+              "@value": "Bild 14",
+              "@language": "sv"
+            },
+            {
+              "@value": "Image 14",
+              "@language": "en-GB"
+            }
+          ],
+          "metadata": [
+            {
+              "label": [
+                {
+                  "@value": "Bildid",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Image ID",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                "90003025_00014"
+              ]
+            },
+            {
+              "label": [
+                {
+                  "@value": "Länk",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Link",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                "https://sok.riksarkivet.se/bildvisning/90003025_00014"
+              ]
+            },
+            {
+              "label": [
+                {
+                  "@value": "Källhänvisning",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Source reference",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                {
+                  "@value": "Lantmäteristyrelsen, Geometriska jordeböcker, SE/RA/420571/01/F/F1a/114 (1698), bildid: 90003025_00014",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Lantmäteristyrelsen, Geometriska jordeböcker, SE/RA/420571/01/F/F1a/114 (1698), Image ID: 90003025_00014",
+                  "@language": "en-GB"
+                }
+              ]
+            }
+          ],
+          "height": 5286,
+          "width": 3384,
+          "images": [
+            {
+              "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/annotation/p14",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lbiiif.riksarkivet.se/arkis!90003025_00014/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 5286,
+                "width": 3384,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lbiiif.riksarkivet.se/arkis!90003025_00014",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p14"
+            }
+          ]
+        },
+        {
+          "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p15",
+          "@type": "sc:Canvas",
+          "label": [
+            {
+              "@value": "Bild 15",
+              "@language": "sv"
+            },
+            {
+              "@value": "Image 15",
+              "@language": "en-GB"
+            }
+          ],
+          "metadata": [
+            {
+              "label": [
+                {
+                  "@value": "Bildid",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Image ID",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                "90003025_00015"
+              ]
+            },
+            {
+              "label": [
+                {
+                  "@value": "Länk",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Link",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                "https://sok.riksarkivet.se/bildvisning/90003025_00015"
+              ]
+            },
+            {
+              "label": [
+                {
+                  "@value": "Källhänvisning",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Source reference",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                {
+                  "@value": "Lantmäteristyrelsen, Geometriska jordeböcker, SE/RA/420571/01/F/F1a/114 (1698), bildid: 90003025_00015",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Lantmäteristyrelsen, Geometriska jordeböcker, SE/RA/420571/01/F/F1a/114 (1698), Image ID: 90003025_00015",
+                  "@language": "en-GB"
+                }
+              ]
+            }
+          ],
+          "height": 5284,
+          "width": 6784,
+          "images": [
+            {
+              "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/annotation/p15",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lbiiif.riksarkivet.se/arkis!90003025_00015/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 5284,
+                "width": 6784,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lbiiif.riksarkivet.se/arkis!90003025_00015",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p15"
+            }
+          ]
+        },
+        {
+          "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p16",
+          "@type": "sc:Canvas",
+          "label": [
+            {
+              "@value": "Bild 16",
+              "@language": "sv"
+            },
+            {
+              "@value": "Image 16",
+              "@language": "en-GB"
+            }
+          ],
+          "metadata": [
+            {
+              "label": [
+                {
+                  "@value": "Bildid",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Image ID",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                "90003025_00016"
+              ]
+            },
+            {
+              "label": [
+                {
+                  "@value": "Länk",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Link",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                "https://sok.riksarkivet.se/bildvisning/90003025_00016"
+              ]
+            },
+            {
+              "label": [
+                {
+                  "@value": "Källhänvisning",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Source reference",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                {
+                  "@value": "Lantmäteristyrelsen, Geometriska jordeböcker, SE/RA/420571/01/F/F1a/114 (1698), bildid: 90003025_00016",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Lantmäteristyrelsen, Geometriska jordeböcker, SE/RA/420571/01/F/F1a/114 (1698), Image ID: 90003025_00016",
+                  "@language": "en-GB"
+                }
+              ]
+            }
+          ],
+          "height": 5257,
+          "width": 3384,
+          "images": [
+            {
+              "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/annotation/p16",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lbiiif.riksarkivet.se/arkis!90003025_00016/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 5257,
+                "width": 3384,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lbiiif.riksarkivet.se/arkis!90003025_00016",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p16"
+            }
+          ]
+        },
+        {
+          "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p17",
+          "@type": "sc:Canvas",
+          "label": [
+            {
+              "@value": "Bild 17",
+              "@language": "sv"
+            },
+            {
+              "@value": "Image 17",
+              "@language": "en-GB"
+            }
+          ],
+          "metadata": [
+            {
+              "label": [
+                {
+                  "@value": "Bildid",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Image ID",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                "90003025_00017"
+              ]
+            },
+            {
+              "label": [
+                {
+                  "@value": "Länk",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Link",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                "https://sok.riksarkivet.se/bildvisning/90003025_00017"
+              ]
+            },
+            {
+              "label": [
+                {
+                  "@value": "Källhänvisning",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Source reference",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                {
+                  "@value": "Lantmäteristyrelsen, Geometriska jordeböcker, SE/RA/420571/01/F/F1a/114 (1698), bildid: 90003025_00017",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Lantmäteristyrelsen, Geometriska jordeböcker, SE/RA/420571/01/F/F1a/114 (1698), Image ID: 90003025_00017",
+                  "@language": "en-GB"
+                }
+              ]
+            }
+          ],
+          "height": 5287,
+          "width": 6784,
+          "images": [
+            {
+              "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/annotation/p17",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lbiiif.riksarkivet.se/arkis!90003025_00017/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 5287,
+                "width": 6784,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lbiiif.riksarkivet.se/arkis!90003025_00017",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p17"
+            }
+          ]
+        },
+        {
+          "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p18",
+          "@type": "sc:Canvas",
+          "label": [
+            {
+              "@value": "Bild 18",
+              "@language": "sv"
+            },
+            {
+              "@value": "Image 18",
+              "@language": "en-GB"
+            }
+          ],
+          "metadata": [
+            {
+              "label": [
+                {
+                  "@value": "Bildid",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Image ID",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                "90003025_00018"
+              ]
+            },
+            {
+              "label": [
+                {
+                  "@value": "Länk",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Link",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                "https://sok.riksarkivet.se/bildvisning/90003025_00018"
+              ]
+            },
+            {
+              "label": [
+                {
+                  "@value": "Källhänvisning",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Source reference",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                {
+                  "@value": "Lantmäteristyrelsen, Geometriska jordeböcker, SE/RA/420571/01/F/F1a/114 (1698), bildid: 90003025_00018",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Lantmäteristyrelsen, Geometriska jordeböcker, SE/RA/420571/01/F/F1a/114 (1698), Image ID: 90003025_00018",
+                  "@language": "en-GB"
+                }
+              ]
+            }
+          ],
+          "height": 5273,
+          "width": 3336,
+          "images": [
+            {
+              "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/annotation/p18",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lbiiif.riksarkivet.se/arkis!90003025_00018/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 5273,
+                "width": 3336,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lbiiif.riksarkivet.se/arkis!90003025_00018",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p18"
+            }
+          ]
+        },
+        {
+          "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p19",
+          "@type": "sc:Canvas",
+          "label": [
+            {
+              "@value": "Bild 19",
+              "@language": "sv"
+            },
+            {
+              "@value": "Image 19",
+              "@language": "en-GB"
+            }
+          ],
+          "metadata": [
+            {
+              "label": [
+                {
+                  "@value": "Bildid",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Image ID",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                "90003025_00019"
+              ]
+            },
+            {
+              "label": [
+                {
+                  "@value": "Länk",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Link",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                "https://sok.riksarkivet.se/bildvisning/90003025_00019"
+              ]
+            },
+            {
+              "label": [
+                {
+                  "@value": "Källhänvisning",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Source reference",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                {
+                  "@value": "Lantmäteristyrelsen, Geometriska jordeböcker, SE/RA/420571/01/F/F1a/114 (1698), bildid: 90003025_00019",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Lantmäteristyrelsen, Geometriska jordeböcker, SE/RA/420571/01/F/F1a/114 (1698), Image ID: 90003025_00019",
+                  "@language": "en-GB"
+                }
+              ]
+            }
+          ],
+          "height": 5332,
+          "width": 6832,
+          "images": [
+            {
+              "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/annotation/p19",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lbiiif.riksarkivet.se/arkis!90003025_00019/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 5332,
+                "width": 6832,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lbiiif.riksarkivet.se/arkis!90003025_00019",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p19"
+            }
+          ]
+        },
+        {
+          "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p20",
+          "@type": "sc:Canvas",
+          "label": [
+            {
+              "@value": "Bild 20",
+              "@language": "sv"
+            },
+            {
+              "@value": "Image 20",
+              "@language": "en-GB"
+            }
+          ],
+          "metadata": [
+            {
+              "label": [
+                {
+                  "@value": "Bildid",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Image ID",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                "90003025_00020"
+              ]
+            },
+            {
+              "label": [
+                {
+                  "@value": "Länk",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Link",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                "https://sok.riksarkivet.se/bildvisning/90003025_00020"
+              ]
+            },
+            {
+              "label": [
+                {
+                  "@value": "Källhänvisning",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Source reference",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                {
+                  "@value": "Lantmäteristyrelsen, Geometriska jordeböcker, SE/RA/420571/01/F/F1a/114 (1698), bildid: 90003025_00020",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Lantmäteristyrelsen, Geometriska jordeböcker, SE/RA/420571/01/F/F1a/114 (1698), Image ID: 90003025_00020",
+                  "@language": "en-GB"
+                }
+              ]
+            }
+          ],
+          "height": 5305,
+          "width": 3336,
+          "images": [
+            {
+              "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/annotation/p20",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lbiiif.riksarkivet.se/arkis!90003025_00020/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 5305,
+                "width": 3336,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lbiiif.riksarkivet.se/arkis!90003025_00020",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p20"
+            }
+          ]
+        },
+        {
+          "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p21",
+          "@type": "sc:Canvas",
+          "label": [
+            {
+              "@value": "Bild 21",
+              "@language": "sv"
+            },
+            {
+              "@value": "Image 21",
+              "@language": "en-GB"
+            }
+          ],
+          "metadata": [
+            {
+              "label": [
+                {
+                  "@value": "Bildid",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Image ID",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                "90003025_00021"
+              ]
+            },
+            {
+              "label": [
+                {
+                  "@value": "Länk",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Link",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                "https://sok.riksarkivet.se/bildvisning/90003025_00021"
+              ]
+            },
+            {
+              "label": [
+                {
+                  "@value": "Källhänvisning",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Source reference",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                {
+                  "@value": "Lantmäteristyrelsen, Geometriska jordeböcker, SE/RA/420571/01/F/F1a/114 (1698), bildid: 90003025_00021",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Lantmäteristyrelsen, Geometriska jordeböcker, SE/RA/420571/01/F/F1a/114 (1698), Image ID: 90003025_00021",
+                  "@language": "en-GB"
+                }
+              ]
+            }
+          ],
+          "height": 5329,
+          "width": 6832,
+          "images": [
+            {
+              "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/annotation/p21",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lbiiif.riksarkivet.se/arkis!90003025_00021/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 5329,
+                "width": 6832,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lbiiif.riksarkivet.se/arkis!90003025_00021",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p21"
+            }
+          ]
+        },
+        {
+          "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p22",
+          "@type": "sc:Canvas",
+          "label": [
+            {
+              "@value": "Bild 22",
+              "@language": "sv"
+            },
+            {
+              "@value": "Image 22",
+              "@language": "en-GB"
+            }
+          ],
+          "metadata": [
+            {
+              "label": [
+                {
+                  "@value": "Bildid",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Image ID",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                "90003025_00022"
+              ]
+            },
+            {
+              "label": [
+                {
+                  "@value": "Länk",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Link",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                "https://sok.riksarkivet.se/bildvisning/90003025_00022"
+              ]
+            },
+            {
+              "label": [
+                {
+                  "@value": "Källhänvisning",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Source reference",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                {
+                  "@value": "Lantmäteristyrelsen, Geometriska jordeböcker, SE/RA/420571/01/F/F1a/114 (1698), bildid: 90003025_00022",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Lantmäteristyrelsen, Geometriska jordeböcker, SE/RA/420571/01/F/F1a/114 (1698), Image ID: 90003025_00022",
+                  "@language": "en-GB"
+                }
+              ]
+            }
+          ],
+          "height": 5263,
+          "width": 3408,
+          "images": [
+            {
+              "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/annotation/p22",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lbiiif.riksarkivet.se/arkis!90003025_00022/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 5263,
+                "width": 3408,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lbiiif.riksarkivet.se/arkis!90003025_00022",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p22"
+            }
+          ]
+        },
+        {
+          "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p23",
+          "@type": "sc:Canvas",
+          "label": [
+            {
+              "@value": "Bild 23",
+              "@language": "sv"
+            },
+            {
+              "@value": "Image 23",
+              "@language": "en-GB"
+            }
+          ],
+          "metadata": [
+            {
+              "label": [
+                {
+                  "@value": "Bildid",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Image ID",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                "90003025_00023"
+              ]
+            },
+            {
+              "label": [
+                {
+                  "@value": "Länk",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Link",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                "https://sok.riksarkivet.se/bildvisning/90003025_00023"
+              ]
+            },
+            {
+              "label": [
+                {
+                  "@value": "Källhänvisning",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Source reference",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                {
+                  "@value": "Lantmäteristyrelsen, Geometriska jordeböcker, SE/RA/420571/01/F/F1a/114 (1698), bildid: 90003025_00023",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Lantmäteristyrelsen, Geometriska jordeböcker, SE/RA/420571/01/F/F1a/114 (1698), Image ID: 90003025_00023",
+                  "@language": "en-GB"
+                }
+              ]
+            }
+          ],
+          "height": 5274,
+          "width": 6888,
+          "images": [
+            {
+              "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/annotation/p23",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lbiiif.riksarkivet.se/arkis!90003025_00023/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 5274,
+                "width": 6888,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lbiiif.riksarkivet.se/arkis!90003025_00023",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p23"
+            }
+          ]
+        },
+        {
+          "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p24",
+          "@type": "sc:Canvas",
+          "label": [
+            {
+              "@value": "Bild 24",
+              "@language": "sv"
+            },
+            {
+              "@value": "Image 24",
+              "@language": "en-GB"
+            }
+          ],
+          "metadata": [
+            {
+              "label": [
+                {
+                  "@value": "Bildid",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Image ID",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                "90003025_00024"
+              ]
+            },
+            {
+              "label": [
+                {
+                  "@value": "Länk",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Link",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                "https://sok.riksarkivet.se/bildvisning/90003025_00024"
+              ]
+            },
+            {
+              "label": [
+                {
+                  "@value": "Källhänvisning",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Source reference",
+                  "@language": "en-GB"
+                }
+              ],
+              "value": [
+                {
+                  "@value": "Lantmäteristyrelsen, Geometriska jordeböcker, SE/RA/420571/01/F/F1a/114 (1698), bildid: 90003025_00024",
+                  "@language": "sv"
+                },
+                {
+                  "@value": "Lantmäteristyrelsen, Geometriska jordeböcker, SE/RA/420571/01/F/F1a/114 (1698), Image ID: 90003025_00024",
+                  "@language": "en-GB"
+                }
+              ]
+            }
+          ],
+          "height": 5442,
+          "width": 3864,
+          "images": [
+            {
+              "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/annotation/p24",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lbiiif.riksarkivet.se/arkis!90003025_00024/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 5442,
+                "width": 3864,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lbiiif.riksarkivet.se/arkis!90003025_00024",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p24"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
