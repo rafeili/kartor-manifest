@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/search/0/context.json",
+    "@id": "https://mss.mocklab.io/search?q=Norre",
+    "@type": "sc:AnnotationList",
+    "within": {
+      "@type": "sc:Layer",
+      "total": 4
+    },
+    "startIndex": 0,
+    "resources": [
+      {
+        "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/contentastext/p8#xywh=1300,3681,300,102",
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@type": "cnt:ContentAsText",
+          "chars": "Norre"
+        },
+        "on": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p8#xywh=1300,3681,300,102"
+      },
+      {
+          "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/contentastext/p10#xywh=2605,2505,316,109",
+          "@type": "oa:Annotation",
+          "motivation": "sc:painting",
+          "resource": {
+            "@type": "cnt:ContentAsText",
+            "chars": "Norre"
+          },
+          "on": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p10#xywh=2605,2505,316,109"
+      },
+      {
+        "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/contentastext/p13#xywh=654,354,559,105",
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@type": "cnt:ContentAsText",
+          "chars": "Norre"
+        },
+        "on": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p13#xywh=654,354,559,105"
+      },
+      {
+        "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/contentastext/p23#xywh=3563,1633,652,90",
+        "@type": "oa:Annotation",
+        "motivation": "sc:painting",
+        "resource": {
+          "@type": "cnt:ContentAsText",
+          "chars": "Norre"
+        },
+        "on": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p23#xywh=3563,1633,652,90"
+      }
+    ],
+    "hits": [
+      {
+        "@type": "search:Hit",
+        "annotations": [
+          "https://lbiiif.riksarkivet.se/arkis!90003025/contentastext/p8#xywh=1300,3681,300,102"
+        ],
+        "match": "Norre",
+        "before": "",
+        "after": ""
+      },
+      {
+          "@type": "search:Hit",
+          "annotations": [
+            "https://lbiiif.riksarkivet.se/arkis!90003025/contentastext/p10#xywh=2605,2505,316,109"
+          ],
+          "match": "Norre",
+          "before": "",
+          "after": ""
+      },
+      {
+        "@type": "search:Hit",
+        "annotations": [
+          "https://lbiiif.riksarkivet.se/arkis!90003025/contentastext/p13#xywh=654,354,559,105"
+        ],
+        "match": "Norre",
+        "before": "",
+        "after": ""
+      },
+      {
+        "@type": "search:Hit",
+        "annotations": [
+          "https://lbiiif.riksarkivet.se/arkis!90003025/contentastext/p23#xywh=3563,1633,652,90"
+        ],
+        "match": "Norre",
+        "before": "",
+        "after": ""
+      }
+    ]
+}
+  

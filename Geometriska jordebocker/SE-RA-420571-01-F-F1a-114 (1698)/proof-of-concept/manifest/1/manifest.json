@@ -12,6 +12,19 @@
       "@language": "en"
     }
   ],
+  
+  "service": [
+      {
+        "@context": "http://iiif.io/api/search/0/context.json",
+
+        "@id": "https://mss.mocklab.io/search",
+
+        "profile": "http://iiif.io/api/search/0/search",
+        
+        "label": "Search within this volume"
+      }
+    ],
+  
   "metadata": [
     {
       "label": [
