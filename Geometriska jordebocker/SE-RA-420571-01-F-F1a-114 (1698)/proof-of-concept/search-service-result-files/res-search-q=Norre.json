@@ -19,14 +19,14 @@
         "on": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p8#xywh=1300,3681,300,102"
       },
       {
-          "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/contentastext/p10#xywh=2605,2505,316,109",
+          "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/contentastext/p10#xywh=1061,923,373,86",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
           "resource": {
             "@type": "cnt:ContentAsText",
             "chars": "Norre"
           },
-          "on": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p10#xywh=2605,2505,316,109"
+          "on": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p10#xywh=1061,923,373,86"
       },
       {
         "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/contentastext/p13#xywh=654,354,559,105",
@@ -62,7 +62,7 @@
       {
           "@type": "search:Hit",
           "annotations": [
-            "https://lbiiif.riksarkivet.se/arkis!90003025/contentastext/p10#xywh=2605,2505,316,109"
+            "https://lbiiif.riksarkivet.se/arkis!90003025/contentastext/p10#xywh=1061,923,373,86"
           ],
           "match": "Norre",
           "before": "",
