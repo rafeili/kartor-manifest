@@ -29,24 +29,24 @@
           "on": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p10#xywh=1061,923,373,86"
       },
       {
-        "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/contentastext/p13#xywh=654,354,559,105",
+        "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/contentastext/p13#xywh=667,518,405,96",
         "@type": "oa:Annotation",
         "motivation": "sc:painting",
         "resource": {
           "@type": "cnt:ContentAsText",
           "chars": "Norre"
         },
-        "on": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p13#xywh=654,354,559,105"
+        "on": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p13#xywh=667,518,405,96"
       },
       {
-        "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/contentastext/p23#xywh=3563,1633,652,90",
+        "@id": "https://lbiiif.riksarkivet.se/arkis!90003025/contentastext/p23#xywh=1702,872,560,88",
         "@type": "oa:Annotation",
         "motivation": "sc:painting",
         "resource": {
           "@type": "cnt:ContentAsText",
           "chars": "Norre"
         },
-        "on": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p23#xywh=3563,1633,652,90"
+        "on": "https://lbiiif.riksarkivet.se/arkis!90003025/canvas/p23#xywh=1702,872,560,88"
       }
     ],
     "hits": [
@@ -71,7 +71,7 @@
       {
         "@type": "search:Hit",
         "annotations": [
-          "https://lbiiif.riksarkivet.se/arkis!90003025/contentastext/p13#xywh=654,354,559,105"
+          "https://lbiiif.riksarkivet.se/arkis!90003025/contentastext/p13#xywh=667,518,405,96"
         ],
         "match": "Norre",
         "before": "",
@@ -80,7 +80,7 @@
       {
         "@type": "search:Hit",
         "annotations": [
-          "https://lbiiif.riksarkivet.se/arkis!90003025/contentastext/p23#xywh=3563,1633,652,90"
+          "https://lbiiif.riksarkivet.se/arkis!90003025/contentastext/p23#xywh=1702,872,560,88"
         ],
         "match": "Norre",
         "before": "",
